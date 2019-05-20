@@ -1,4 +1,7 @@
 
+ 
+[![Build Status](https://travis-ci.org/wollok/initialLearning.svg?branch=master)](https://travis-ci.org/wollok/initialLearning)
+
 # Ejemplo inicial de Wollok
 
 En el primer ejemplo tenés 
