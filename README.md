@@ -1,6 +1,7 @@
 
  
-[![Build Status](https://travis-ci.org/wollok/initialLearning.svg?branch=master)](https://travis-ci.org/wollok/initialLearning)
+[![build](https://github.com/wollok/initialLearning/actions/workflows/ci.yml/badge.svg)](https://github.com/wollok/initialLearning/actions/workflows/ci.yml)
+
 
 # Ejemplo inicial de Wollok
 
